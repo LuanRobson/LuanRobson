@@ -1,6 +1,6 @@
 # 👾 Luan Robson - Tech Enthusiast
 
-![Header](https://i.imgur.com/Npw5e3K.png)
+![Header](https://i.pinimg.com/736x/7c/0b/48/7c0b48e39a274d8c50c0b0281792c0bd.jpg)
 
 ---
 
@@ -38,14 +38,14 @@ Here are some of the amazing projects I've been working on:
 
 ---
 
-## 🌸 Let's Connect
+## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/luanrobson/)
-- [Twitter](https://twitter.com/luanrobson)
-- [Email](mailto:luan.robson@example.com)
+- [LinkedIn](https://www.linkedin.com/in/luan-robson-44929a245/)
+- [Twitter](https://twitter.com/repulsovomitos)
+- [Email](mailto:luan.rob19@gmail.com)
 
 Feel free to reach out if you want to discuss tech, anime, or anything in between!
 
 ---
 
-![Footer](https://i.imgur.com/w2R3dxA.png)
+![Footer](https://i.pinimg.com/736x/d3/e9/97/d3e99766dfb835f653750b90b0cbd7bf.jpg)
