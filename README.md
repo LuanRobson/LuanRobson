@@ -37,7 +37,7 @@ Here are some of the amazing projects I've been working on:
 
 ## 🎨 Anime & Tech Fusion
 
-![Lain](https://i.imgur.com/Q3ft5pH.gif)
+![Lain](https://i.pinimg.com/736x/6d/cb/09/6dcb09fefce76253a368a30fc14e69bb.jpg)
 
 As a lover of anime and tech, I draw inspiration from the retro-futuristic vibes of 90s anime. "Serial Experiments Lain" has a special place in my heart, influencing my approach to blending aesthetics with cutting-edge technology.
 
