@@ -1,7 +1,52 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7289da&size=35&center=true&vCenter=true&width=1000&lines=Eae,+Bem+Vindo(a)+ao+meu+perfil!;)](https://git.io/typing-svg)
+# 👾 Luan Robson - Tech Enthusiast
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=odevnicolas&bg_color=23272a&color=99aab5&line=7289da&point=99aab5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=odevnicolas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## 🌐 About Me
+
+Hey there! I'm Luan Robson, a passionate software developer and tech enthusiast. I love blending technology with the unique aesthetics of 90s anime. 
+
+---
+
+## 🚀 Projects
+
+Here are some of the amazing projects I've been working on:
+
+### 🔹 [SaúdeHD](https://github.com/LuanRobson/saudehd)
+- **Description**: A comprehensive healthcare management system.
+- **Technologies**: Next.js, TypeScript, Node.js, PostgreSQL, AWS.
+
+### 🔹 [ElegeBR](https://github.com/LuanRobson/elegebr)
+- **Description**: A political campaign chatbot and support system.
+- **Technologies**: React Native, Python, TensorFlow.
+
+### 🔹 [MPRO PASS](https://github.com/LuanRobson/mpro-pass)
+- **Description**: Assistance program for public servers in Rondônia.
+- **Technologies**: Angular, Spring, Oracle, Keycloak.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Frontend**: Next.js, React, Angular, TypeScript
+- **Backend**: Node.js, NestJS, Java, Spring
+- **Databases**: PostgreSQL, Oracle
+- **DevOps**: AWS, Docker
+
+---
+
+## 🎨 Anime & Tech Fusion
+
+![Lain](https://i.imgur.com/Q3ft5pH.gif)
+
+As a lover of anime and tech, I draw inspiration from the retro-futuristic vibes of 90s anime. "Serial Experiments Lain" has a special place in my heart, influencing my approach to blending aesthetics with cutting-edge technology.
+
+---
+
+##  Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/luan-robson-44929a245/)
+- [Twitter](https://x.com/repulsovomitos)
+- [Email](mailto:luan.rob19@gmail.com)
+
+Feel free to reach out if you want to discuss tech, anime, or anything in between!
