@@ -1,4 +1,4 @@
-# 👾 Luan Robson - Otaku Tech Enthusiast
+# 👾 Luan Robson - Tech Enthusiast
 
 ![Header](https://i.imgur.com/Npw5e3K.png)
 
