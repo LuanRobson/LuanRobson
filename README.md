@@ -1,7 +1,7 @@
 # 👾 Luan Robson - Tech Enthusiast
 
-![Header](https://i.pinimg.com/736x/7c/0b/48/7c0b48e39a274d8c50c0b0281792c0bd.jpg)
-
+[![Header](https://i.pinimg.com/736x/7c/0b/48/7c0b48e39a274d8c50c0b0281792c0bd.jpg)
+](url)
 ---
 
 ## 🌐 About Me
@@ -48,4 +48,5 @@ Feel free to reach out if you want to discuss tech, anime, or anything in betwee
 
 ---
 
-![Footer](https://i.pinimg.com/736x/d3/e9/97/d3e99766dfb835f653750b90b0cbd7bf.jpg)
+[![Footer](https://i.pinimg.com/736x/d3/e9/97/d3e99766dfb835f653750b90b0cbd7bf.jpg)
+](url)
