@@ -23,7 +23,7 @@ Atualmente atuo com **Next.js**, **Nest.js**, **TypeScript**, e **PostgreSQL**, 
 
 ---
 
-### ⚙️ Stack Tecnológica
+### ⚙️ Tecnologias familiariazadas
 
 <div align="center">
   
