@@ -19,6 +19,8 @@ Apaixonado por tecnologia, busco sempre aprimorar processos, aplicar boas práti
 
 Atualmente atuo com **Next.js**, **Nest.js**, **TypeScript**, e **PostgreSQL**, desenvolvendo produtos de alta performance para empresas e órgãos públicos.  
 
+<img align="right" src="https://camo.githubusercontent.com/d2bbe5d156f93775ce7330b5c079c8c13999e539480ea28e4b3cf59dafdc39c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5158685372364e4452344635743639474c382f67697068792e676966" width="100"/>
+
 ---
 
 ### ⚙️ Stack Tecnológica
@@ -64,5 +66,3 @@ Atualmente atuo com **Next.js**, **Nest.js**, **TypeScript**, e **PostgreSQL**, 
   alt="Footer"
 />
 
-
-<img align="right" src="https://camo.githubusercontent.com/d2bbe5d156f93775ce7330b5c079c8c13999e539480ea28e4b3cf59dafdc39c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5158685372364e4452344635743639474c382f67697068792e676966" width="100"/>
