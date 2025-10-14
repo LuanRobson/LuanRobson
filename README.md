@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Fortaleza-CE-2c5282?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"></a>
   <a href="mailto:luan.rob19@gmail.com"><img src="https://img.shields.io/badge/Email-luan.rob19@gmail.com-1e3a5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/luanrobson/"><img src="https://img.shields.io/badge/LinkedIn-luanrobson-0b1f2e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/luan-robson-mendes/"><img src="https://img.shields.io/badge/LinkedIn-luanrobson-0b1f2e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
