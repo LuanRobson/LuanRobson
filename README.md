@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f2e,50:1a365d,100:2c5282&height=180&section=header&text=Luan%20Robson&fontSize=50&fontColor=fff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Engenharia%20de%20Software&descAlignY=55&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f2e,50:1a365d,100:2c5282&height=180&section=header&text=Luan%20Robson&fontSize=50&fontColor=fff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20%20%20&descAlignY=55&descSize=18"
   alt="Header"
 />
 
